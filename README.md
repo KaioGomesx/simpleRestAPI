@@ -1,2 +1,2 @@
-# A simples rest API on Ruby on Rails
+# A simple rest API on Ruby on Rails
 
